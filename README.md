@@ -1,2 +1,1 @@
-# project1
-project1 on git
+hello this iz my 1st project of git commands
